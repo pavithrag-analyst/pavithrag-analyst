@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## 
 Hi, I'm Pavithra 👋
 Business Analyst | Data Analytics | Digital Transformation
 I am an experienced Business Analyst with 14+ years across regulated financial services, enterprise technology, and digital transformation. I am currently completing an MRes in Digital Management at the University of Hertfordshire (UK), with a research focus on AI adoption and data-driven decision making in enterprise environments.
