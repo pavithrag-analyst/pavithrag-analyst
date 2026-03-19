@@ -29,6 +29,6 @@ Currently working as a Consultant at RheinBrücke IT Consulting (remote)
 Experience in Agile/Scrum delivery, stakeholder workshops, and requirements analysis
 ---
 📫 Connect With Me
-![LinkedIn](https://www.linkedin.com/in/pavithrag-analyst)
+![LinkedIn](www.linkedin.com/in/pavithragunasekaran)
 ---
 All projects use publicly available datasets. Analysis is conducted for learning and portfolio purposes.
