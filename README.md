@@ -9,11 +9,8 @@ This GitHub profile documents my hands-on journey into data analytics — applyi
 Tool	Level
 
 Python (pandas, numpy, matplotlib, seaborn)	Intermediate
-
 SQL	Intermediate
-
 Power BI	Intermediate
-
 Excel (advanced)	Proficient
 ---
 📂 Portfolio Projects
