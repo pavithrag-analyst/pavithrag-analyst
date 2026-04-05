@@ -1,33 +1,31 @@
 # Hi, I'm Pavithra 👋
 
-**Business Analyst | Data Analytics | Digital Transformation**
+**Business-Aware Data Analyst | SQL · Python · Power BI | Domain-Driven Analytics**
 
-I am an experienced Business Analyst with 14+ years across regulated financial services, enterprise technology, and digital transformation. I am currently completing an **MRes in Digital Management** at the University of Hertfordshire (UK), with a research focus on AI adoption and data-driven decision making in enterprise environments.
+I combine 14 years of enterprise domain expertise across regulated financial services, ERP systems, and procurement technology with active, hands-on data analytics development. I am currently completing an **MRes in Digital Management** at the University of Hertfordshire (UK), with a research focus on AI adoption and data-driven decision making in enterprise environments.
 
-Alongside my academic studies, I am actively building my hands-on data analytics skills in Python, SQL, and Power BI, applying them to publicly available healthcare and public sector datasets. This GitHub profile documents that learning journey.
+This GitHub profile documents applied analytics projects built on real public datasets — structured to demonstrate end-to-end analytical thinking, not just tool familiarity.
 
 ---
 
 ## 🔍 What I Work With
 
 | Tool | Level |
-|---|---|
-| Python (pandas, numpy, matplotlib, seaborn) | Intermediate |
-| SQL | Intermediate |
-| Power BI | Intermediate |
-| Excel (advanced) | Proficient |
+|------|-------|
+| SQL (PostgreSQL / SQLite / MySQL) | Intermediate — joins, CTEs, window functions, aggregations |
+| Python (pandas, numpy, matplotlib, seaborn) | Intermediate — EDA, data cleaning, visualisation |
+| Power BI | Intermediate — dashboards, DAX measures, drill-through reports |
+| Excel (advanced) | Proficient — pivot tables, XLOOKUP, Power Query |
 
 ---
 
-## 📂 Portfolio Projects (In Progress)
+## 📂 Portfolio Projects
 
 | Project | Tools | Dataset | Status |
-|---|---|---|---|
+|---------|-------|---------|--------|
+| [UK Government Procurement Analysis](https://github.com/pavithrag-analyst/uk-procurement-sql-analysis) | SQL, Python, Power BI | UK Contracts Finder (data.gov.uk) | ✅ Complete |
 | NHS A&E Waiting Times Analysis | Python, SQL | NHS England Open Data | 🔄 In Progress |
-| UK Public Sector Workforce EDA | Python, pandas | ONS Workforce Data | 🔜 Coming Soon |
-| Healthcare Efficiency Dashboard | Power BI | Combined NHS datasets | 🔜 Coming Soon |
-
-*Projects are being developed alongside my MRes studies. Each will include a full notebook, visualisations, and a written summary of findings.*
+| Financial Services Risk Dashboard | Power BI, SQL | Public regulatory data | 🔜 Coming Soon |
 
 ---
 
@@ -41,16 +39,16 @@ Alongside my academic studies, I am actively building my hands-on data analytics
 
 ## 💼 Professional Background
 
-- Business Analyst and Consultant with 14+ years across banking, government technology, and ERP platforms
-- Currently working as a Consultant at RheinBrücke IT Consulting (remote)
-- Experience in Agile/Scrum delivery, stakeholder workshops, and requirements analysis across regulated environments
+- 14 years as a Business Analyst and Consultant across regulated banking, government technology, ERP, and procurement platforms
+- Currently consulting at RheinBrücke IT Consulting — competitive intelligence and market research for enterprise procurement technology
+- Agile/Scrum delivery experience across regulated financial services environments (Investec Bank, ABN AMRO)
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pavithragunasekaran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavithragunasekaran)
 
 ---
 
-*All projects use publicly available datasets. Analysis is conducted for learning and portfolio purposes.*
+*All projects use publicly available datasets. Analysis is conducted for portfolio and learning purposes.*
